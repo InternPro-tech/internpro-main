@@ -55,7 +55,7 @@ export const items = [
     titleClassName: "justify-end",
     img: "",
     spareImg: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png",
-    link:"https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform"
+    link:"https://forms.gle/2fHyaNBPtJEs3uEL8"
   },
   {
     id: 2,
@@ -66,7 +66,7 @@ export const items = [
     titleClassName: "justify-start",
     spareImg:'https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175109.png',
     img: "",
-    link:"https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform"
+    link:"https://forms.gle/XCYqLVeYSj5bdsZC8"
   },
   {
     id: 3,
@@ -81,14 +81,14 @@ export const items = [
   },
   {
     id: 4,
-    title: "Full Stack Development",
-    description: "Master both front-end and back-end technologies to develop comprehensive, end-to-end web applications.",
+    title: "Data Science and Analytics",
+    description: "In today's world data is everything. Master Data Analytics.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "",
     spareImg: "https://cdn-icons-png.flaticon.com/512/6674/6674627.png",
-    link:"https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform"
+    link:"https://forms.gle/cmVxP1z9DQR3zvmJ6"
   },
 
   {
@@ -100,7 +100,7 @@ export const items = [
     titleClassName: "justify-start ",
     img: "",
     spareImg: "https://cdn-icons-png.flaticon.com/512/901/901002.png",
-    link:"https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform"
+    link:"https://forms.gle/PgmNtAeFFdC54cDb8"
   },
   {
     id: 6,
@@ -122,6 +122,6 @@ export const items = [
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "",
     spareImg: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png",
-    link:"https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform"
+    link:"https://forms.gle/W4HpeSm9iXkFMeW66"
   },
 ];
