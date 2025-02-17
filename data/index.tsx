@@ -8,37 +8,37 @@ export const navItems = [
 
 export const reviews = [
   {
-    name: "Madhav",
+    name: "Raj",
     photo: "https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_logo_%281982%29.svg",
     body: "InternPro’s hands-on approach made all the difference. I’m ready to take on the industry!",
     img: "https://avatar.vercel.sh/jack",
   },
   {
-    name: "Donesh",
+    name: "Kishor",
     photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/1200px-Facebook_Logo_%282019%29.svg.png",
     body: "Thanks to InternPro, I’m on my dream career path. It’s been an incredible experience.",
     img: "https://avatar.vercel.sh/jill",
   },
   {
-    name: "Manas",
+    name: "Anand",
     photo: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Google_Logo_%281998%29.png",
     body: "InternPro opened doors I never thought possible. It's a game-changer!",
     img: "https://avatar.vercel.sh/john",
   },
   {
-    name: "Avish",
+    name: "Uday",
     photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/HCLTech-new-logo.svg/153px-HCLTech-new-logo.svg.png?20220926142743",
     body: "InternPro turned my academic knowledge into real-world skills. I’m amazed at the results!",
     img: "https://avatar.vercel.sh/jane",
   },
   {
-    name: "Harshal",
+    name: "Harsh",
     photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_Corporate_Logo.png/1200px-Adobe_Corporate_Logo.png",
     body: "InternPro gave me the confidence and experience to pursue my passion. I couldn’t be happier!",
     img: "https://avatar.vercel.sh/jenny",
   },
   {
-    name: "Vipul",
+    name: "Vipin",
     photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/1024px-Accenture.svg.png",
     body: "InternPro provided me with the practical experience I needed to succeed in my field.",
     img: "https://avatar.vercel.sh/james",
