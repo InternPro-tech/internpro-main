@@ -32,7 +32,7 @@ export default function MaintenanceMode() {
           Email us
         </a>
         <a
-          href="https://wa.me/+917378906594?text=Hi%2C%20I%20would%20like%20to%20know%20about%20InternPro."
+          href="https://wa.me/+917378906954?text=Hi%2C%20I%20would%20like%20to%20know%20about%20InternPro."
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center text-green-600 px-4 py-2 rounded hover:border-green-600"
