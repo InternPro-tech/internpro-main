@@ -14,7 +14,7 @@ export const Hero = () => {
              Bridging the Gap Between Education and Industry!
             </h2> 
             <p className="text-sm my-2 md:text-xl tracking-tight leading-[20px]">START YOUR CAREER WITH INTERNPRO !!!</p>
-            <a className="bg-black dark:bg-white py-2 px-4 font-semibold rounded-full text-white dark:text-black my-1 text-lg md:text-xl" href="https://docs.google.com/forms/d/e/1FAIpQLSez4WUhG__Biy7ldYhc8Dzke9pqoQ92KVBH--aHxMzTV4mPmA/viewform">Join Now</a>
+            <a className="bg-black dark:bg-white py-2 px-4 font-semibold rounded-full text-white dark:text-black my-1 text-lg md:text-xl" href="https://59us4qvh.forms.app/registration-form">Join Now</a>
         </div>
       <GridPattern
         width={30}
